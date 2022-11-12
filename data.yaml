@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: root/spider_object_detection/train/images
+val: root/spider_object_detection/valid/images
+test: root/spider_object_detection//test/images
 
 nc: 1
 names: ['spider']
